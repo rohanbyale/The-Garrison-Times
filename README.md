@@ -28,11 +28,15 @@ Built with **HTML, CSS, JavaScript, GSAP, Locomotive Scroll, and Swiper.js**, th
 - **[Swiper.js](https://swiperjs.com/)** – Carousel
 
 ---
-
+## 📂 Project Structure
 ├── index.html # Main HTML structure
+
 ├── style.css # Styles and animations
+
 ├── script.js # Core JavaScript functionality
+
 ├── assets/ # Images & videos (Peaky Blinders media)
+
 └── README.md # Project documentation
 
 
@@ -44,4 +48,4 @@ Built with **HTML, CSS, JavaScript, GSAP, Locomotive Scroll, and Swiper.js**, th
    git clone https://github.com/your-username/the-garrison-times.git
 
 
-## 📂 Project Structure
+
