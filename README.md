@@ -20,13 +20,12 @@ Built with **HTML, CSS, JavaScript, GSAP, Locomotive Scroll, and Swiper.js**, th
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3** (animations + responsive design)
-- **JavaScript (Vanilla)**
-- **[GSAP](https://greensock.com/gsap/)** – Animations
-- **[Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)** – Smooth scrolling
-- **[Swiper.js](https://swiperjs.com/)** – Carousel
-
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-333333?style=for-the-badge&logo=javascript&logoColor=white)
 ---
 ## 📂 Project Structure
 ├── index.html # Main HTML structure
